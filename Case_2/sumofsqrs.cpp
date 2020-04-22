@@ -1,5 +1,5 @@
 /*File Name : Sum of Squares of n numbers.cpp
-Author      : kaTTA mAHESH
+Author      : Katta Mahesh
 Purpose     : To calculate the sum of squares of a given numbers
 Date        : 22/04/2020
 */
