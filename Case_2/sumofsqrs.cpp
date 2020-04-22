@@ -1,7 +1,7 @@
 /*File Name : Sum of Squares of n numbers.cpp
-Author      : M .LAkshmi Prasanna
+Author      : kaTTA mAHESH
 Purpose     : To calculate the sum of squares of a given numbers
-Date        : 07/04/2020
+Date        : 22/04/2020
 */
 #include<iostream>
 #include<string.h>
