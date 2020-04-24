@@ -34,19 +34,8 @@ private:
         int iDst;
         int iDstlaw;
         char cFiledir[300];
-        /*
-        function name:waitForEnter()
-        parameterlist:No
-        Return type:no return values
-        */
-        void waitForEnter(){
-                cout<<"\n\n\n Press enter to go back \n\n";
-                cin.get();
-        }
-		 /*
-        function name:addNotesInfo
-        parameterlist:No
-        Return type:no return values
+
+       
         */
 		void addNotesInfo(void)
 		{
